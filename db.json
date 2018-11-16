@@ -1,0 +1,106 @@
+{
+    "artist": [
+        {
+            "id": "1241",
+            "name": "Will Simth",
+            "username": "killwill"
+        },
+        {
+            "id": "45355",
+            "name": "John Legend",
+            "username": "Legendboy"
+        },
+        {
+            "id": "5633",
+            "name": "Drake",
+            "username": "drakeblack"
+        },
+        {
+            "id": "3443",
+            "name": "JZ B",
+            "username": "jz"
+        },
+        {
+            "id": "46845",
+            "name": "Bruno Mars",
+            "username": "brunoboy"
+        },
+        {
+            "id": "465746",
+            "name": "Coldplay",
+            "username": "cp"
+        }
+    ],
+    "songs": [
+        {
+            "id": "545412",
+            "title": "Up town funck",
+            "duration": 3.5,
+            "album": "I dont care",
+            "artistID": "46845"
+        },
+        {
+            "id": "784579",
+            "title": "Just the way you are",
+            "duration": 4.0,
+            "album": "I dont care",
+            "artistID": "46845"
+        },
+        {
+            "id": "787541",
+            "title": "Lazy",
+            "duration": 4.5,
+            "album": "I dont care",
+            "artistID": "46845"
+        },
+        {
+            "id": "968554",
+            "title": "Yellow",
+            "duration": 3.0,
+            "album": "Yello",
+            "artistID": "465746"
+        },
+        {
+            "id": "234100",
+            "title": "A sky full of stars",
+            "duration": 5.0,
+            "album": "Paradise",
+            "artistID": "465746"
+        },
+        {
+            "id": "54554",
+            "title": "Paradise",
+            "duration": 3.0,
+            "album": "Paradise",
+            "artistID": "465746"
+        },
+        {
+            "id": "744454",
+            "title": "In my Feeling",
+            "duration": 4.25,
+            "album": "Darkside",
+            "artistID": "5633"
+        },
+        {
+            "id": "365241",
+            "title": "God's Plane",
+            "duration": 4.25,
+            "album": "Darkside",
+            "artistID": "5633"
+        },
+        {
+            "id": "03214",
+            "title": "All of Me",
+            "duration": 4.25,
+            "album": "All",
+            "artistID": "45355"
+        },
+        {
+            "id": "8455241",
+            "title": "Work",
+            "duration": 4.25,
+            "album": "Get Up",
+            "artistID": "3443"
+        }
+    ]
+}
